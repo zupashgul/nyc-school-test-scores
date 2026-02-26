@@ -38,3 +38,7 @@ I grouped the data by 'borough' to calculate the mean and standard deviation of 
 ## How to Run:
 1. Clone the repo.
 2. Open the notebook/Script in your Preferred IDE.
+
+## Project Deliverables 
+* **Analysis Notebook:** [View Python Code](./notebook.ipynb)
+* **Visual Report:** [View Graphs & Insights](Documentation/Report.pdf)
