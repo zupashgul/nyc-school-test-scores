@@ -5,7 +5,7 @@ This Project explores the SAT Performance of Public Schools across New York City
 In this analysis, I Focused on Three Key questions about the NYC Public School system:
 
 **Best Math Results:**
-Which NYC Schools have the best math results (specifically, a score of 80% or higher?
+Which NYC Schools have the best math results (specifically, a score of 80% or higher)?
 
 **Top 10 Schools:**
 What are the top 10 performing schools based on a Combined SAT score (Math + Reading + Writing)?
@@ -33,7 +33,7 @@ I grouped the data by 'borough' to calculate the mean and standard deviation of 
 ## Technologies used:
 * Python
 * Pandas
-* Seaborn
+* Seaborn/Matplotlib
 
 ## How to Run:
 1. Clone the repo.
